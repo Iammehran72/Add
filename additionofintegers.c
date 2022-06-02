@@ -1,5 +1,6 @@
 //Addition of two integers//
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 	
@@ -10,7 +11,7 @@ int main()
 	
 	printf("The Addition Of %d and %d is %d ", a, b, sum);
 	
-	getchar();
+	getch();
 	
 	return 0;
 }
